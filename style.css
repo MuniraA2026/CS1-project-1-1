@@ -1,1 +1,17 @@
 
+/* this is a CSS comment */
+/* Select elements by Typ */ 
+
+Body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkcyan;
+}
+
+p {
+    color:rgb(73, 28, 235);
+}
+
+h1,h2, h3, h4 { 
+    font-family: 'Lucida Sans':
+    color:Lucida Sans;
+}
